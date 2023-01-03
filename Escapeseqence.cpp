@@ -8,6 +8,7 @@ int main() {
 // We can also use \n to change into new line 
 
   cout << "Hello World!\n";
-  cout << "How are you?";
+  cout << "How are you?\t"<< endl;
+  cout << "I am fine\\"; 
    return 0;
 }
