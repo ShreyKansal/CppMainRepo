@@ -13,3 +13,5 @@ int main() {
         cout << "String is a palindrome" << endl;
     return 0;
 }
+
+//Complexity of the above program is O(n).
